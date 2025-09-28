@@ -16,10 +16,7 @@ style: |
     font-size: 56px !important;
     line-height: 1.1;
     margin: 0.2em 0 0.4em;
-    text-shadow:
-      0 1px 2px rgba(0, 0, 0, 0.35),
-      0 3px 8px rgba(0, 0, 0, 0.25),
-      0 8px 20px rgba(0, 0, 0, 0.15);
+    
   }
   h2 {
     color: black;
