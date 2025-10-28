@@ -7,6 +7,7 @@ title: สร้างเว็บ Static ด้วย Bootstrap
 description: xxx
 backgroundImage: url('wallpaper-1.jpg')
 backgroundSize: cover
+footer: "INF67-175 Web Development | บทที่ 4: สร้างเว็บ Static ด้วย Bootstrap"
 style: |
   section {
     color: blue; /* สีตัวอักษรทั้งหมด */
@@ -34,7 +35,7 @@ style: |
 # 🧱 บทที่ 3  
 ## สร้างเว็บ Static ด้วย Bootstrap
 
-**รายวิชา:** Basic Web Programming  
+**รายวิชา:** INF67-175 Web Development
 **เป้าหมาย:** จัด Layout และทำเว็บให้ responsive อย่างรวดเร็ว
 
 ---
